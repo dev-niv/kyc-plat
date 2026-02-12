@@ -1,14 +1,1 @@
-data-generator-java/
-├── pom.xml
-├── data-contract.md
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── com/example/datagen/
-│       │       ├── DataGeneratorApplication.java
-│       │       ├── runner/DataGenerationRunner.java
-│       │       ├── model/FenergoRecord.java
-│       │       ├── model/GearsRecord.java
-│       │       └── util/CsvWriter.java
-│       └── resources/
-└── output/
+https://chatgpt.com/share/698e2981-6bec-800c-9aff-ab4855c854a6
